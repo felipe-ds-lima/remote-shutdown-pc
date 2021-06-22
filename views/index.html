@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Desligar PC</title>
+
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      }
+
+      div {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100vw;
+        min-height: 100vh;
+        background-color: #121214;
+        padding: 32px;
+      }
+
+      form {
+        width: 100%;
+        margin-bottom: 16px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      button {
+        background-color: #35d86b;
+        color: #121214;
+        cursor: pointer;
+        border: 0;
+        padding: 16px;
+        font-weight: 500;
+        max-width: 300px;
+        width: 100%;
+        font-size: 24px;
+        border-radius: 16px;
+        transition: 0.2s;
+      }
+
+      button:hover {
+        filter: brightness(0.8);
+      }
+
+      a {
+        margin-top: 48px;
+        color: #fff;
+        opacity: 0.8;
+        text-decoration: none;
+        transition: 0.2s;
+      }
+      a:hover {
+        opacity: 1;
+      }
+    </style>
+  </head>
+  <body>
+    <div>
+      <form action="/desligar" method="GET">
+        <button type="submit">Desligar</button>
+      </form>
+      <form action="/reiniciar" method="GET">
+        <button type="submit">Reiniciar</button>
+      </form>
+      <form action="/hibernar" method="GET">
+        <button type="submit">Hibernar</button>
+      </form>
+      <a href="https://felipedslima.com.br"
+        >Desenvolvido por Felipe D.S. Lima</a
+      >
+    </div>
+  </body>
+</html>

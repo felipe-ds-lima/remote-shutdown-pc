@@ -1,0 +1,156 @@
+C:\shutdown\server.js:10
+      callback(true);
+      ^
+
+TypeError: callback is not a function
+    at C:\shutdown\server.js:10:7
+    at ChildProcess.exithandler (node:child_process:340:5)
+    at ChildProcess.emit (node:events:376:20)
+    at maybeClose (node:internal/child_process:1063:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:295:5)
+C:\shutdown\server.js:10
+      callback(true);
+      ^
+
+TypeError: callback is not a function
+    at C:\shutdown\server.js:10:7
+    at ChildProcess.exithandler (node:child_process:340:5)
+    at ChildProcess.emit (node:events:376:20)
+    at maybeClose (node:internal/child_process:1063:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:295:5)
+C:\shutdown\server.js:10
+      callback(true);
+      ^
+
+TypeError: callback is not a function
+    at C:\shutdown\server.js:10:7
+    at ChildProcess.exithandler (node:child_process:340:5)
+    at ChildProcess.emit (node:events:376:20)
+    at maybeClose (node:internal/child_process:1063:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:295:5)
+C:\shutdown\server.js:10
+      callback(true);
+      ^
+
+TypeError: callback is not a function
+    at C:\shutdown\server.js:10:7
+    at ChildProcess.exithandler (node:child_process:340:5)
+    at ChildProcess.emit (node:events:376:20)
+    at maybeClose (node:internal/child_process:1063:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:376:20)
+    at Pipe.<anonymous> (node:net:666:12)
+C:\shutdown\server.js:10
+      callback(true);
+      ^
+
+TypeError: callback is not a function
+    at C:\shutdown\server.js:10:7
+    at ChildProcess.exithandler (node:child_process:340:5)
+    at ChildProcess.emit (node:events:376:20)
+    at maybeClose (node:internal/child_process:1063:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:376:20)
+    at Pipe.<anonymous> (node:net:666:12)
+C:\shutdown\server.js:10
+      callback(true);
+      ^
+
+TypeError: callback is not a function
+    at C:\shutdown\server.js:10:7
+    at ChildProcess.exithandler (node:child_process:340:5)
+    at ChildProcess.emit (node:events:376:20)
+    at maybeClose (node:internal/child_process:1063:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:376:20)
+    at Pipe.<anonymous> (node:net:666:12)
+C:\shutdown\server.js:10
+      callback(true);
+      ^
+
+TypeError: callback is not a function
+    at C:\shutdown\server.js:10:7
+    at ChildProcess.exithandler (node:child_process:340:5)
+    at ChildProcess.emit (node:events:376:20)
+    at maybeClose (node:internal/child_process:1063:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:295:5)
+C:\shutdown\server.js:10
+      callback(true);
+      ^
+
+TypeError: callback is not a function
+    at C:\shutdown\server.js:10:7
+    at ChildProcess.exithandler (node:child_process:340:5)
+    at ChildProcess.emit (node:events:376:20)
+    at maybeClose (node:internal/child_process:1063:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:295:5)
+C:\shutdown\server.js:10
+      callback(true);
+      ^
+
+TypeError: callback is not a function
+    at C:\shutdown\server.js:10:7
+    at ChildProcess.exithandler (node:child_process:340:5)
+    at ChildProcess.emit (node:events:376:20)
+    at maybeClose (node:internal/child_process:1063:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:295:5)
+C:\shutdown\server.js:10
+      callback(true);
+      ^
+
+TypeError: callback is not a function
+    at C:\shutdown\server.js:10:7
+    at ChildProcess.exithandler (node:child_process:340:5)
+    at ChildProcess.emit (node:events:376:20)
+    at maybeClose (node:internal/child_process:1063:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:295:5)
+C:\shutdown\server.js:10
+      callback(true);
+      ^
+
+TypeError: callback is not a function
+    at C:\shutdown\server.js:10:7
+    at ChildProcess.exithandler (node:child_process:340:5)
+    at ChildProcess.emit (node:events:376:20)
+    at maybeClose (node:internal/child_process:1063:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:295:5)
+C:\shutdown\server.js:10
+      callback(true);
+      ^
+
+TypeError: callback is not a function
+    at C:\shutdown\server.js:10:7
+    at ChildProcess.exithandler (node:child_process:340:5)
+    at ChildProcess.emit (node:events:376:20)
+    at maybeClose (node:internal/child_process:1063:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:295:5)
+C:\shutdown\server.js:20
+    callback(null);
+    ^
+
+TypeError: callback is not a function
+    at C:\shutdown\server.js:20:5
+    at ChildProcess.exithandler (node:child_process:324:7)
+    at ChildProcess.emit (node:events:376:20)
+    at maybeClose (node:internal/child_process:1063:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:295:5)
+C:\shutdown\server.js:20
+    callback(null);
+    ^
+
+TypeError: callback is not a function
+    at C:\shutdown\server.js:20:5
+    at ChildProcess.exithandler (node:child_process:324:7)
+    at ChildProcess.emit (node:events:376:20)
+    at maybeClose (node:internal/child_process:1063:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:295:5)
+C:\shutdown\server.js:10
+      callback(true);
+      ^
+
+TypeError: callback is not a function
+    at C:\shutdown\server.js:10:7
+    at ChildProcess.exithandler (node:child_process:340:5)
+    at ChildProcess.emit (node:events:376:20)
+    at maybeClose (node:internal/child_process:1063:16)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:295:5)
